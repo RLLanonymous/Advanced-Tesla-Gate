@@ -1,4 +1,4 @@
-<h2 align="center"> ⚠️ Advanced Tesla Gates SCP:SL Plugin ⚡️ </h2>
+<h2 align="center"> ⚠️ Advanced Tesla Gates SCP:SL Script ⚡️ </h2>
 
 ###
 
