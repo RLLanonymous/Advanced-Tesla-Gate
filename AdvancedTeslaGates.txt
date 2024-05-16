@@ -1,0 +1,14 @@
+!-- AUTORUN
+```
+TESLA ROLETYPE FacilityGuard
+```
+TESLA ROLETYPE Scientist 
+```
+TESLA ROLETYPE NtfPrivate
+```
+TESLA ROLETYPE NtfSergeant
+```
+TESLA ROLETYPE NtfCaptain
+```
+TESLA ROLETYPE NtfSpecialist
+```
